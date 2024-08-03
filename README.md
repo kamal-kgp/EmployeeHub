@@ -1,6 +1,14 @@
 ## About
 
-This is an employee management system, backend of this project is build using cosmocloud 
+This is an employee management system, where you can manage details of employees seamlessly.
+
+## Tech stack and libraries used 
+
+* react.js
+* react-router-dom 
+* react-dom
+* mongoDB as database
+* cosmocloud as backend service
 
 ## Available Scripts
 
